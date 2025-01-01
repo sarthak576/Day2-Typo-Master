@@ -81,8 +81,8 @@ We welcome contributions! Follow these steps:
 
 Have questions or feedback? Reach out to us:
 
-- Email: [contact@typo-master.com](mailto:contact@typo-master.com)
-- Twitter: [@TypoMaster](https://twitter.com/TypoMaster)
+- Email: [sarthakguptarjn123@gmail.com](mailto:sarthakguptarjn123@gmail.com)
+- Linkedin: [Sarthak-Gupta](https://www.linkedin.com/in/sarthakgupta1702/)
 
 ---
 
@@ -91,7 +91,7 @@ Have questions or feedback? Reach out to us:
 Join our community and share your high scores:
 
 - **Discord:** [Typo Master Community](https://discord.gg/example)
-- **Twitter:** [@TypoMaster](https://twitter.com/TypoMaster)
+- **Linkedin:** [Sarthak-Gupta](https://www.linkedin.com/in/sarthakgupta1702/)
 
 ---
 
